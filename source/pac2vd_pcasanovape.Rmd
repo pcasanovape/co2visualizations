@@ -1,0 +1,30 @@
+---
+title: "PAC 2 Visualització de dades"
+author: "Pau Casanova Pedrol"
+date: "29/11/2022"
+output: html_document
+---
+
+```{r echo=TRUE, message=FALSE, warning=FALSE}
+#install.packages("ggplot2")
+library(ggplot2)
+
+```
+
+
+
+```{r echo=TRUE, message=FALSE, warning=FALSE}
+# Carreguem el fitxer csv i mostrem les primeres files.
+v2 <- read.csv(file = 'v2.csv')
+head(v2,20)
+
+ggplot(v2, aes(x=co2_per_capita, y=gdp_per_capita, color=region, size=gdp)) + 
+  geom_point()  + 
+  scale_color_manual(values=c('#27c473','#edba00', '#7d0771', '#ed2b00', '#111e80')) +
+  xlab("Emissions CO2 per càpita") + 
+  ylab("PIB per càpita") + 
+  ggtitle("PIB per càpita vs. emissions de CO2 per càpita per països")
+
+```
+
+
