@@ -11,11 +11,11 @@ Aquest repositori GitHub ha estat creat amb la finalitat de publicar i compartir
 
 
 ## Dataset escollit
-El dataset original s’ha descarregat del repositori GitHub “co2-data” de la pàgina Our World in Data, que analitza diversos aspectes sobre les emissions de CO2 i gasos efecte hivernacle de tots els països del món, amb observacions anuals des de l’any 1750 (en alguns casos) fins a l’any 2021. La pàgina original on es pot veure
+El dataset original s’ha descarregat del repositori GitHub “co2-data” de la pàgina Our World in Data, que analitza diversos aspectes sobre les emissions de CO2 i gasos efecte hivernacle de tots els països del món, amb observacions anuals des de l’any 1750 (en alguns casos) fins a l’any 2021. La pàgina original on es s'ha publicat l'anàlisi realitzada amb aquestes dades es pot veure en el següent enllaç:
 
 https://ourworldindata.org/co2-dataset-sources
 
-Aquest és l’enllaç al repositori GitHub des d’on s’han descarregat les dades.
+Aquest és l’enllaç al repositori GitHub des d’on s’han descarregat les dades:
 
 https://github.com/owid/co2-data
 
@@ -37,7 +37,7 @@ Aquesta visualització s’ha realitzat amb l’app Tableau Public i es pot veur
 
 https://public.tableau.com/views/CO21960-2020/CO21960-2020?:language=es-ES&:display_count=n&:origin=viz_share_link
 
-L’arxiu en format .twbx es pot trobar a la carpeta ‘visualitzacions’ d’aquest mateix repositori amb el nom ‘ CO2 1960-2020’.
+L’arxiu en format .twbx es pot trobar a la carpeta ‘visualitzacions’ d’aquest mateix repositori amb el nom ‘CO2 1960-2020’.
 
 
 ### Visualització 2
