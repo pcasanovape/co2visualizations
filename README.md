@@ -59,7 +59,7 @@ L’arxiu en format .twbx es pot trobar a la carpeta ‘visualitzacions’ d’a
 ## Codi font rellevant
 * **source/preprocessat.html**: Arxiu HTML que conté el codi executat a Jupyter Notebook per al preprocessat del dataset original, i la creació dels arxius .csv que corresponen al subset emprat en cada tècnica de visualització.
 
-* **source/preprocessat.html**: Arxiu .ipynb que conté el codi executat a Jupyter Notebook per al preprocessat del dataset original, i la creació dels arxius .csv que corresponen al subset emprat en cada tècnica de visualització.
+* **source/preprocessat.ipynb**: Arxiu .ipynb que conté el codi executat a Jupyter Notebook per al preprocessat del dataset original, i la creació dels arxius .csv que corresponen al subset emprat en cada tècnica de visualització.
 
 * **source/pac2vd_pcasanovape.rmd**: Arxiu RMarkdown que conté el codi executat per a la realització del diagrama de dispersió (segona visualització).
 
